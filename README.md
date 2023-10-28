@@ -8,7 +8,7 @@
 - Diseño responsivo para dispositivos móviles y de escritorio.
 - Enfoque en el hacking ético y sus diferentes facetas.
 
-## Demostración en Vivo
+## **Demo** en Vivo
 
 Puedes ver la implementación en vivo en el siguiente enlace:
 [landing-hacking.vercel.app](https://landing-hacking.vercel.app/)
